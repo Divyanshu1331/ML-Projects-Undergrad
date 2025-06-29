@@ -22,7 +22,7 @@ Since then, I’ve taught myself:
 
 ---
 
-## 🧠 But Here’s What Matters Most:
+## 🔥 But Here’s What Matters Most:
 
 > I worked on all of this **between external exams, internal exams, subject assignments, and academic deadlines** during my 4th to 8th semesters:
 >

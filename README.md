@@ -27,7 +27,7 @@ And I’ve applied all of this knowledge across **9 self-driven projects**.
 
 ## 🔥 But Here’s What Matters Most:
 
-> I worked on all of this **between external exams, internal exams, subject assignments, and academic deadlines** during my 4th to 8th semesters:
+> I worked on all of this **between external exams, internal exams, subject assignments, and academic deadlines** during my 5th to 8th semesters:
 >
 > - 📘 **Oct 2023** – 4th sem externals  
 > - 📘 **April 2024** – 5th sem externals  

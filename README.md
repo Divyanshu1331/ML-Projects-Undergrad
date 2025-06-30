@@ -10,15 +10,18 @@ This repository is not just a list of projects — it’s a story of consistent 
 
 ## 📚 My Learning Journey
 
-In **November 2023**, at the beginning of my 5th semester, I completed the Coursera course *Supervised Machine Learning: Regression and Classification* by Andrew Ng. That course sparked my hands-on journey into machine learning and data-driven modeling.
+In November 2023, at the beginning of my 5th semester, I completed the Coursera course *Supervised Machine Learning: Regression and Classification* by Andrew Ng. That course sparked my hands-on journey into machine learning and data-driven modeling.
 
 Since then, I’ve taught myself:
-- **Core ML Algorithms**: Linear Regression, Logistic Regression, Decision Trees
-- **Model Evaluation**: Underfitting, overfitting, bias-variance tradeoff
-- **Python Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, OpenCV
+
+- **Core ML Algorithms**: Linear Regression, Logistic Regression, Decision Trees, Support Vector Machines (SVM), Random Forests, Naive Bayes, K-Nearest Neighbors (KNN)
+- **Feature Engineering**: Missing value imputation, categorical encoding, outlier detection, feature scaling
+- **Model Evaluation**: Underfitting, overfitting, bias-variance tradeoff, train-test split, cross-validation
+- **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV
 - **Tools**: Jupyter Notebook, Google Colab, Git, OS module
-- **Data Structures & Algorithms in Java**
-- And implemented all of this into 9 self-driven projects
+- **Data Structures & Algorithms**: Practiced and implemented in Java
+
+And I’ve applied all of this knowledge across **9 self-driven projects**.
 
 ---
 

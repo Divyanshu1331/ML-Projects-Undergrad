@@ -18,7 +18,7 @@ Since then, I’ve taught myself:
 - **Feature Engineering**: Missing value imputation, categorical encoding, outlier detection, feature scaling
 - **Model Evaluation**: Underfitting, overfitting, bias-variance tradeoff, train-test split, cross-validation
 - **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenCV
-- **Tools**: Jupyter Notebook, Google Colab, Git, OS module
+- **Tools**: Jupyter Notebook, Google Colab, OS module
 - **Data Structures & Algorithms**: Practiced and implemented in Java
 
 And I’ve applied all of this knowledge across **9 self-driven projects**.

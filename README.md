@@ -66,7 +66,7 @@ Each project here represents a milestone in my undergraduate research journey an
 
 ## 🌱 What's Next?
 
-I am currently advancing through my **deep learning journey**, focusing on both foundational theory and practical implementation. This includes exploring specialized architectures such as **Convolutional Neural Networks (CNNs)**, **Recurrent Neural Networks (RNNs)**, and the principles behind **Large Language Models (LLMs)**.
+I am currently advancing through my **deep learning journey**, focusing on both foundational theory and practical implementation. This includes exploring specialized architectures such as **Convolutional Neural Networks (CNNs)**, **Recurrent Neural Networks (RNNs)**, and **Transformers**, which form the basis of modern **Large Language Models (LLMs)**.
 
 As I continue learning, I will document future projects and experiments in a separate repository dedicated to deep learning.
 

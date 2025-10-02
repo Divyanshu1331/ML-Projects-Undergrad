@@ -82,4 +82,4 @@ This was one of my **first real-world ML projects**, built right after completin
 ---
 
 ## 👨‍🎓 Purpose
-This project is part of my undergraduate ML portfolio, created to showcase my learning progression. It reflects how I began applying machine learning concepts from online courses to practical problems — a foundational step in my preparation for MS+PhD in EECS at MIT (Fall 2026).
+This project is part of my undergraduate ML portfolio, created to showcase my learning progression. It reflects how I began applying machine learning concepts from online courses to practical problems.

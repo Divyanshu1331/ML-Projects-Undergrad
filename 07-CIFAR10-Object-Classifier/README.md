@@ -117,8 +117,10 @@ The model’s training progress was visualized using Matplotlib:
 ---
 
 ## 📷 Sample Prediction
-Enter the path of the Image: /content/drive/MyDrive/CIFAR-10/Indigo_Airplane.jpg
+Enter the path of the Image: Gave the path of an airplane image
+
 Output:
+
 Predicted Class: airplane ✈️
 Confidence: 98.9%
 

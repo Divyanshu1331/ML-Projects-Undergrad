@@ -46,22 +46,17 @@ Metric: Accuracy
 ## 📊 Training the Model
 model.fit(x_train, y_train, epochs=5)
 
-Epoch	Accuracy	Loss
-1	36.8%	4.11
-2	40.7%	0.85
-3	55.7%	0.70
-4	79.1%	0.56
-5	92.2%	0.35
+| Epoch | Accuracy | Loss |
+|-------|----------|------|
+| 1     | 36.8%    | 4.11 |
+| 2     | 40.7%    | 0.85 |
+| 3     | 55.7%    | 0.70 |
+| 4     | 79.1%    | 0.56 |
+| 5     | 92.2%    | 0.35 |
 
 ✅ The model achieves ~92% training accuracy in just 5 epochs.
 
 🧾 Evaluation on Test Data
-score, acc = model.evaluate(x_test, y_test)
-print("Test Loss:", score)
-print("Test Accuracy:", acc)
-
-
-Output:
 
 Test Loss:  0.4923  
 Test Accuracy:  0.9251
@@ -72,9 +67,10 @@ Test Accuracy:  0.9251
 ---
 
 ## 📈 Results Summary
-Model	Technique	Test Accuracy
-Baseline CNN	From Scratch	65.3%
-MobileNetV2	Transfer Learning	92.5%
+| Model          | Technique           | Test Accuracy |
+|----------------|-------------------|---------------|
+| Baseline CNN   | From Scratch       | 65.3%         |
+| MobileNetV2    | Transfer Learning  | 92.5%         |
 
 ---
 

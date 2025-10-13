@@ -18,7 +18,7 @@ Each sample includes **30 real-valued features** such as radius, texture, perime
 
 ---
 
-## 🧩 Project Workflow
+## 🧩 Dataset Handling
 
 ### 1. Data Loading
 The dataset is provided as a Bunch object, similar to a Python dictionary, containing:
@@ -39,9 +39,9 @@ The dataset is provided as a Bunch object, similar to a Python dictionary, conta
 
 - Split dataset into:
 
-  -- 80% training set
+  - 80% training set
 
-  -- 20% testing set
+  - 20% testing set
 
 ### 3. Feature Standardization
 
@@ -93,24 +93,24 @@ Neural Network	Dense Layers + Standardization	97%
 
 🧾 Key Learnings
 
-Understanding of Neural Network fundamentals and architecture design.
+- Understanding of Neural Network fundamentals and architecture design.
 
-Importance of data preprocessing and standardization in machine learning.
+- Importance of data preprocessing and standardization in machine learning.
 
-Application of TensorFlow & Keras for real-world classification problems.
+- Application of TensorFlow & Keras for real-world classification problems.
 
-Gained hands-on experience with model evaluation, visualization, and performance tuning.
+- Gained hands-on experience with model evaluation, visualization, and performance tuning.
 
 ---
 
 ## 🧰 Tech Stack
 
-Programming Language: Python
+- **Programming Language:** Python
 
-Libraries: TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib
+- **Libraries:** TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib
 
-Dataset Source: sklearn.datasets
+- **Dataset Source:** sklearn.datasets
 
-Environment: Jupyter Notebook / Anaconda
+- **Environment:** Jupyter Notebook / Anaconda
 
 ---

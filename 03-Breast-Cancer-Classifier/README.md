@@ -91,7 +91,7 @@ Neural Network	Dense Layers + Standardization	97%
 
 ---
 
-🧾 Key Learnings
+## 🧾 Key Learnings
 
 - Understanding of Neural Network fundamentals and architecture design.
 

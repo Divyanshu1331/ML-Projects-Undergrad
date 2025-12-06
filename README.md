@@ -21,7 +21,7 @@ Since then, I’ve taught myself:
 - **Tools**: Jupyter Notebook, Google Colab, OS module
 - **Data Structures & Algorithms**: Practiced and implemented in Java
 
-And I’ve applied all of this knowledge across **9 self-driven projects**.
+And I’ve applied all of this knowledge across **10 self-driven projects**.
 
 ---
 

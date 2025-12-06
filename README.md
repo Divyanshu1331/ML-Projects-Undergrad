@@ -64,6 +64,7 @@ Each project here represents a milestone in my undergraduate research journey an
 | 07  | CIFAR-10 Object Classification (CNN)      | [`07-CIFAR10-Object-Classifier`](./07-CIFAR10-Object-Classifier) |
 | 08  | Color Detection (OpenCV)                  | [`08-Color-Detection-OpenCV`](./08-Color-Detection-OpenCV) |
 | 09  | Face Anonymizer (OpenCV)                  | [`09-Face-Anonymizer-OpenCV`](./09-Face-Anonymizer-OpenCV) |
+| 10  | Adulteration in Cooking Oil               | [`10-Adulteration-in-Cooking-Oil`](./10-Adulteration-in-Cooking-Oil) |
 
 ---
 

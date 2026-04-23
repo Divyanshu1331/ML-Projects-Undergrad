@@ -2,9 +2,9 @@
 
 ## 👋 Hello!
 
-Welcome to my curated portfolio of Machine Learning and Deep Learning projects, all built during my undergraduate journey (2023–2025) while pursuing B.E. in Electronics & Communication Engineering.
+This repository contains a collection of machine learning and deep learning projects developed during my undergraduate studies (2023–2025).
 
-This repository is not just a list of projects — it’s a story of consistent learning, passion, and perseverance.
+The projects cover regression, classification, computer vision, and transfer learning, with a focus on understanding model behavior, generalization, and practical implementation.
 
 ---
 

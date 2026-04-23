@@ -1,6 +1,6 @@
 # 🐶🐱 Dog vs Cat Classification using MobileNetV2 (Transfer Learning)
 
-This project applies transfer learning using MobileNetV2 to classify images of cats and dogs.
+This project applies transfer learning using MobileNetV2 to classify images of cats and dogs, and achieves ~92.5% accuracy.
 
 ---
 

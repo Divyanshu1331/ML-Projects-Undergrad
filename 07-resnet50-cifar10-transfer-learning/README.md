@@ -1,6 +1,6 @@
 # 🧠 CIFAR-10 Classification using ResNet50 (Transfer Learning)
 
-This project explores transfer learning using ResNet50 to improve image classification performance on CIFAR-10.
+This project explores transfer learning using ResNet50 to improves CIFAR-10 classification from ~39% baseline to ~94.86% using ResNet50 transfer learning.
 
 ---
 
